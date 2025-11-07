@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Reading Location Finder",
+  "description": "An interactive training tool for students to practice identifying the exact sentence location of answers in a reading passage, with a 2-minute timer per question.",
+  "requestFramePermissions": []
+}
